@@ -1,5 +1,5 @@
 # codersapp
-this api use netcore 3.1
+this app use netcore 3.1
 
 commands:
 
